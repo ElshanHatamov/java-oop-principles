@@ -1,14 +1,58 @@
-# Java OOP Principles
+# ☕ Java OOP Principles
 
-This repository focuses on the four main principles of Object-Oriented Programming in Java.
+A clean and simple project demonstrating the core principles of **Object-Oriented Programming (OOP)** in Java.
 
-## Concepts Covered
+---
 
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
+## 📚 Concepts
 
-## Purpose
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
 
-The goal of this repository is to explain each OOP principle with simple and clear Java examples.
+---
+
+## 🧠 What This Project Shows
+
+This repository focuses on explaining each OOP principle with clear and minimal Java examples.
+
+Each concept is implemented separately to make understanding easier and more structured.
+
+---
+
+## 🚀 Purpose
+
+* Strengthen core Java knowledge
+* Understand how OOP works in practice
+* Prepare for Java technical interviews
+
+---
+
+## 🛠 Tech Stack
+
+* Java (Core Java)
+
+---
+
+## ▶️ Getting Started
+
+```bash
+git clone https://github.com/ElshanHatamov/java-oop-principles.git
+```
+
+Open the project in your IDE and run the example classes.
+
+---
+
+## 💡 Notes
+
+* Code is written in a simple and beginner-friendly style
+* Each principle is demonstrated with small focused examples
+* Designed for learning and interview preparation
+
+---
+
+## 👨‍💻 Author
+
+GitHub: https://github.com/ElshanHatamov
